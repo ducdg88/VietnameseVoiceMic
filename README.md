@@ -205,3 +205,8 @@ releases\version.json
 - `updater.ps1`: helper cap nhat ban moi.
 - `install-startup.ps1`: cai auto-start cung Windows.
 - `uninstall-startup.ps1`: go auto-start.
+
+
+---
+
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/vietnamese-voice-mic-coding-bang-giong-noi/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic
