@@ -1,5 +1,8 @@
 # Vietnamese Voice Mic
 
+
+**Nói tiếng Việt vào bất kỳ ô nào trên Windows → chữ xuất hiện đúng chỗ, không cần gõ tay.**
+
 Ung dung Windows chay nen de nhap tieng Viet bang giong noi vao o chat/input.
 
 ## Tinh nang chinh
