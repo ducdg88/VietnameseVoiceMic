@@ -1,3 +1,5 @@
+**🇻🇳 Tiếng Việt** · [🇬🇧 English](README.en.md)
+
 # Vietnamese Voice Mic
 
 
@@ -212,4 +214,4 @@ releases\version.json
 
 ---
 
-Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/vietnamese-voice-mic-coding-bang-giong-noi/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic): AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/bai-viet/vietnamese-voice-mic-coding-bang-giong-noi/?utm_source=github&utm_medium=readme&utm_campaign=VietnameseVoiceMic
