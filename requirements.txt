@@ -1,6 +1,6 @@
 SpeechRecognition>=3.16.1
 PyAudio>=0.2.14
-pywinauto>=0.6.8
+pywinauto>=0.6.9
 pyinstaller>=6.0
 setuptools<80
 webrtcvad-wheels>=2.0.14
