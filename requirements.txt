@@ -3,5 +3,5 @@ PyAudio>=0.2.14
 pywinauto>=0.6.8
 pyinstaller>=6.0
 setuptools<80
-webrtcvad-wheels>=2.0.14
+webrtcvad-wheels>=2.0.14.post1
 webrtcvad>=2.0.10
